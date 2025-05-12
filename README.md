@@ -2,7 +2,11 @@
 
 ## Introduction
 
+
 Loans constitute the fundamental business of banks, with the primary source of profit being the interest accrued on loans. Before granting a loan, financial institutions engage in a thorough process of verification and validation. Despite this, there remains uncertainty regarding whether the applicant possesses the capability to repay the loan without encountering difficulties. In this project, I construct a predictive model aimed at determining whether an applicant is likely to repay the loan to the lending company. 
+<img width="1470" alt="Screenshot 2025-05-12 at 6 32 33 PM" src="https://github.com/user-attachments/assets/7739837d-dcb7-45b9-b2bd-2cd89af28dc7" />
+
+<img width="1470" alt="Screenshot 2025-05-12 at 6 32 49 PM" src="https://github.com/user-attachments/assets/d14d657d-ba47-4117-a5c3-f0227a65770e" />
 
 Website link : https://serenity001.my.canva.site/predicting-loan-eligibility-project-overview
 ## Problem Statement
